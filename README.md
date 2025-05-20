@@ -23,11 +23,12 @@
 - 분석 결과 요약: 불량 유형 비율, 전체 수율 %, 판별 결과 저장 기능 등 요약 기능 제공
 
 ## 🧩기술 스택
-- 언어: Python 3.8.3 (패키지 압축 푸는 용) / 3.12.7
+- 언어: Python 3.8.3 (패키지 압축 푸는 용)
 - GUI 프레임워크: PyQt5
 - 시각화: Matplotlib, NumPy
 - 머신러닝: scikit-learn, TensorFlow (선택적), pandas
 - 데이터셋: WM811K Wafer Map Dataset(자료 출처 : https://www.kaggle.com/code/ashishpatel26/wm-811k-wafermap)
+- pandas version : 1.1.1
 
 ## 👤역할 분담
 - 팀장 역할 (aroundbeast@naver.com)
