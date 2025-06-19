@@ -1,0 +1,10 @@
+
+# 학습 및 검증 데이터 경로
+train: C:\Users\Lee\Downloads\이승우\강남대\4-1\캡스톤디자인\wafer\yolo_dataset\train\images
+val: C:\Users\Lee\Downloads\이승우\강남대\4-1\캡스톤디자인\wafer\yolo_dataset\valid\images
+
+# 클래스 개수
+nc: 8
+
+# 클래스 이름 목록
+names: ['Center', 'Crack', 'Donut', 'Edge', 'Loc', 'Normal', 'Random', 'Scratch']
